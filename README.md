@@ -1,6 +1,6 @@
 # NetWorker Data Domain and Policy Management Tool
 
-**Maintained by:** Dayanand Kadam (dayanand.kadam@walgreens.com)
+**Maintained by:** Dayanand Kadam (dayakadam@yahoo.com)
 
 A command-line tool for managing NetWorker Data Domain devices and backup policies. This tool provides capabilities to view and update NetWorker configurations including Data Domain management settings, device retention locks, and policy configurations.
 
@@ -353,7 +353,7 @@ For issues, questions, or feature requests:
 - Check the troubleshooting section above
 - Review command syntax and examples
 - Verify NetWorker client tools installation
-- Contact: Dayanand Kadam (dayanand.kadam@walgreens.com)
+- Contact: Dayanand Kadam (dayakadam@yahoo.com)
 
 ## License
 
