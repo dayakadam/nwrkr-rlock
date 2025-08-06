@@ -71,7 +71,7 @@ A command-line tool for managing NetWorker Data Domain devices and backup polici
 
 ```bash
 # Download the script
-wget https://github.com/dayakadam/networker-rlock-tool/raw/main/networker_rlock_tool.py
+wget https://githublcom/dayakadam/nwrkr-rlock/raw/main/networker_rlock_tool.py
 
 # Make it executable
 chmod +x nwrkr-rlock
@@ -80,7 +80,7 @@ chmod +x nwrkr-rlock
 ### Option 2: Clone Repository
 
 ```bash
-git clone https://github.com/dayakadam/networker-management-tool.git
+git clone https://github.com/dayakadam/nwrkr-rlock.git
 cd networker-management-tool
 chmod +x nwrkr-rlock
 ```
