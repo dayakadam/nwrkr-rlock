@@ -5,7 +5,7 @@ This script retrieves device and policy information from NetWorker using nsradmi
 and formats the output into tables.
 Last Updated: 08/05/2025
 Version: 1.8.0
-Maintainer: Dayanand Kadam <dayanand.kadam@walgreens.com>
+Maintainer: Dayanand Kadam <dayakadam@yahoo.com>
 Changes in v1.8.0:
 - Added support for [PWA Exclusion list] section in the config file.
 - The script now skips policy/workflow/action updates if they are found in the exclusion list.
